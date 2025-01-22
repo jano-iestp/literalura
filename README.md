@@ -37,7 +37,7 @@ Este proyecto es una aplicación de gestión de literatura construida con Spring
 
 1. Clona el repositorio:
    ```sh
-git clone git@github.com:castleortiz1/LiterAlutaLatam.git
+https://github.com/jano-iestp/literalura
    ```
 
 2. Compila y ejecuta la aplicación usando Maven:
