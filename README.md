@@ -1,5 +1,4 @@
-# LiterAlutaLatam  
-
+# LiterAlu
 Este proyecto es una aplicación de gestión de literatura construida con Spring Boot. A continuación, se detalla la estructura del proyecto e instrucciones básicas para su configuración y puesta en marcha.
 
 ## Descripción de los Directorios y Archivos 
